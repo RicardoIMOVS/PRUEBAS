@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Next.js Playground – Code & UI Lab
 
-## Getting Started
+> Entorno personal de experimentación para pruebas de código, diseño UI/UX y arquitectura en React + Next.js.
 
-First, run the development server:
+---
+
+## 📌 Descripción
+
+Este proyecto funciona como un **laboratorio de desarrollo** donde pruebo:
+
+- Animaciones (Three.js, Canvas, WebGL)
+- Layouts con Tailwind CSS
+- Experimentos visuales y de rendimiento
+
+No es un producto final, sino un entorno de validación técnica y creativa.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- ⚛️ React
+- ▲ Next.js (App Router)
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- 🌍 Three.js
+
+---
+
+## ⚙️ Instalación
 
 ```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Objetivo del Proyecto
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Probar ideas antes de implementarlas en proyectos reales
+- Validar patrones de arquitectura
+- Experimentar con diseño moderno y animaciones
+- Mejorar rendimiento y buenas prácticas
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧪 Tipo de Pruebas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🌍 Visualizaciones 3D interactivas
+- 🎨 Sistemas de diseño escalables
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📌 Notas
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Este repositorio está en constante evolución y puede contener código experimental, prototipos incompletos o implementaciones temporales.
